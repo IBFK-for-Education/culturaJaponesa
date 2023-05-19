@@ -1,6 +1,6 @@
 /* PAGE SETTINGS */
 :root {
-    --colorDeTextoHeader: white;
+    --colorDeTextoHeader: rgb(0, 0, 0);
     --colorDeFondoHeader:white
 
     --colorDeTextMain: black;
