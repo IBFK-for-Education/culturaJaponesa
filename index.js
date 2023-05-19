@@ -3,7 +3,7 @@
 
 
 // DECLARACIÓN DEL MENSAJE
-var mensajeDeInicio = "Yeshua Davcid Reyes Presenta...";
+var mensajeDeInicio = "Bienvenidos a la cultura Japonesa";
 
 
 
